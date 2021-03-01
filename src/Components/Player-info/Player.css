@@ -1,0 +1,20 @@
+.cart{
+    align-items: center;
+    width: 350px;
+    border: 1px solid lightgray;
+    margin:auto;
+    margin-bottom: 15px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+
+}
+.cart img{
+    width: 200px;
+}
+
+.cart button{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border:1px solid black;
+    border-radius: 10px;
+}
